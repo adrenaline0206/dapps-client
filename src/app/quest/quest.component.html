@@ -1,0 +1,19 @@
+<div style="text-align:center">
+  <h1>
+    Quest
+  </h1>
+</div>
+
+<h3>{{message}}</h3>
+
+<h2>Main List</h2>
+
+<div>
+  <input type="text" [(ngModel)]="userName">
+  <button (click)="addMain()">Add Main</button>
+</div>
+<div>
+  <li *ngFor="let main of allMains">
+    {{main.name}}
+  </li>
+</div>

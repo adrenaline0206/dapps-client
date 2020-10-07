@@ -1,0 +1,6 @@
+<span class="navbar-text" *ngIf="!login">
+  <a routerLink="/account/login">Login</a>
+</span>
+<span class="navbar-text" *ngIf="login">
+  <a routerLink="/account/login" (click)="logout()">Logout</a>
+</span>

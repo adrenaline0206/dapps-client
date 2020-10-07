@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "ganache",
+        "openzeppelin"
+    ],
+    "solidity.packageDefaultDependenciesContractsDirectory": "",
+    "solidity.packageDefaultDependenciesDirectory": "node_modules"
+}
