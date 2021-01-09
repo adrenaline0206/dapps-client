@@ -1,8 +1,4 @@
 # Description
-![stars](https://img.shields.io/github/stars/adrenaline0206/dapps-client)
-![downloads](https://img.shields.io/github/downloads/adrenaline0206/dapps-client/total)
-![license](https://img.shields.io/github/license/adrenaline0206/dapps-client)
-
 `dapps-main` is platform that connects event organizers and participants application.
 
 ## Installation
